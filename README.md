@@ -9,7 +9,7 @@ For this connection to work, I used the following components in AWS:
 3. endpoint to connect to a instance using private IP.
 4. EC2 instance with specific security group.
 
-For on-premise network, I used ###Vyos software based router and configure
+For on-premise network, I used Vyos software based router and configure
 site-site-site VPN on that router. This router sat behind a NAT device. I also needed a 
 public IP for the configuration.
 
